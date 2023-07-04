@@ -6,7 +6,7 @@
 * Auteur: HU University of Applied Sciences Utrecht
 * Copyright: [Creative Commons — Naamsvermelding-GelijkDelen 4.0 Internationaal — CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/deed.nl)
 * Writers: Dion Dresschers & David Vermeulen
-* Download: https://edu.nl/877kw
+* Download: [https://edu.nl/877kw](https://edu.nl/877kw)
 * Status: Concept
 * Versie: 2023-07-04 10:09:51
 
@@ -27,7 +27,7 @@ Het begrip staat bovenaan uitgelegd.
 Lijkt enigszins op een switch, maar dan draadloos. Zorgt voor het verbinden van draadloze apparaten met het netwerk
 
 * 👩‍🏫 CSC2
-* 🏆 https://nl.wikipedia.org/wiki/Wireless_access_point
+* 🏆 [](https://nl.wikipedia.org/wiki/Wireless_access_point)
 
 ## ARP
 
