@@ -677,7 +677,7 @@ Het computerprogramma Wireshark is een 'packet sniffer' en 'protocol analyzer', 
 ## WWW
 
 World Wide Web (WWW), zijn een aantal technische afspraken voor het wereldwijd over het internet aanbieden en verbinden van allerhande documenten en computertoepassingen, en een grote verzameling webpagina's met documenten en toepassingen die wereldwijd volgens dit systeem over het internet worden aangeboden en met een webbrowser kunnen worden geraadpleegd. Voor gegevensoverdracht via internet naar je browser
-* 
+
 * 📃 https://nl.wikipedia.org/wiki/Wereldwijd_web
 * 👩‍🏫 CSC4
 * 🏆 https://nl.wikipedia.org/wiki/Wereldwijd_web
