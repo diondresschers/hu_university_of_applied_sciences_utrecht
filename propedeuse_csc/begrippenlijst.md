@@ -13,6 +13,7 @@
 ## Legenda
 
 Het begrip staat bovenaan uitgelegd.
+
 * 📃 Link naar internet waar de definitie vandaag komt (geheel, gedeeltelijk en/of vertaald).
 * 👩‍🏫 Het begrip staat in deze les (of lessen).
 * 👉 Voorbeelden (van het begrip).
