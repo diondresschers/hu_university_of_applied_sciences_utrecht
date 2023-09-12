@@ -12,8 +12,8 @@ Aanpassing HU / Dion Dresschers
 * Auteur: Ken Schwaber en Jeff Sutherland
 * Copyright: [Creative Commons — Attribution-ShareAlike 4.0 International — CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)
 * Aanpassing: [HU University of Applied Sciences](https://www.hu.nl/) door [Dion Dresschers](https://www.linkedin.com/in/diondresschers/) 
-* Reden aanpassing: De text van Microsoft Word gewijzigd naar [Markdown](https://commonmark.org/help/) formaat.
-* Download: 
+* Reden aanpassing: De text van PDF-formaat gewijzigd naar [Markdown](https://commonmark.org/help/) formaat.
+* Download: [hu_university_of_applied_sciences_utrecht/de_scrum_gids at main · diondresschers/hu_university_of_applied_sciences_utrecht](https://github.com/diondresschers/hu_university_of_applied_sciences_utrecht/tree/main/de_scrum_gids)
 * Status: Definitief
 * Versie: 2023-09-12 11:40:14
 
