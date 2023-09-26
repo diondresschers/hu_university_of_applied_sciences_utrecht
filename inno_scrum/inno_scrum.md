@@ -1,17 +1,16 @@
-<p>INNO Scrum</p>
+<p style="font-size: 2em; font-weight: bold;">INNO Scrum</p>
 
-* Naam: INNO Scrum 
-* Datum: 2023-09-12
+* Name: INNO Scrum 
+* Date: 2023-09-12
 * Original: [2020 De Scrum Gids](https://scrumguides.org/docs/scrumguide/v2020/2020-Scrum-Guide-Dutch.pdf)
-* By: Ken Schwaber en Jeff Sutherland
+* By: Ken Schwaber and Jeff Sutherland
 * Derrivative by: [HU University of Applied Sciences](https://www.hu.nl/) by [Dion Dresschers](https://www.linkedin.com/in/diondresschers/) 
-* Download: [hu_university_of_applied_sciences_utrecht/de_scrum_gids at main · diondresschers/hu_university_of_applied_sciences_utrecht](https://github.com/diondresschers/hu_university_of_applied_sciences_utrecht/tree/main/de_scrum_gids)
+* Download: [GitHub repo](https://github.com/diondresschers/hu_university_of_applied_sciences_utrecht/tree/main/inno_scrum)
 * Status: Concept
-* Versie: 2023-09-12 12:18:26
+* Version: 2023-09-12 12:18:26
 
-# Inhoud
+<p style="font-size: 2em; font-weight: none;">INNO Scrum</p>
 
-- [Inhoud](#inhoud)
 - [1. Doel van de Scrum Gids](#1-doel-van-de-scrum-gids)
 - [2. Scrum Definitie](#2-scrum-definitie)
 - [3. Scrum Theorie](#3-scrum-theorie)
@@ -26,6 +25,9 @@
 - [6. Scrum Gebeurtenissen](#6-scrum-gebeurtenissen)
   - [6.1. De Sprint](#61-de-sprint)
   - [6.2. Sprint Planning](#62-sprint-planning)
+    - [Onderwerp Een: Waarom is deze Sprint waardevol?](#onderwerp-een-waarom-is-deze-sprint-waardevol)
+    - [Onderwerp Twee: Wat kan deze Sprint worden afgerond?](#onderwerp-twee-wat-kan-deze-sprint-worden-afgerond)
+    - [Onderwerp Drie: Hoe zal het gekozen werk gedaan worden?](#onderwerp-drie-hoe-zal-het-gekozen-werk-gedaan-worden)
   - [6.3. Daily Scrum](#63-daily-scrum)
   - [6.4. Sprint Review](#64-sprint-review)
   - [6.5. Sprint Retrospective](#65-sprint-retrospective)
@@ -42,6 +44,14 @@
     - [8.1.2. Scrum Gids Geschiedenis](#812-scrum-gids-geschiedenis)
     - [8.1.3. Vertaling](#813-vertaling)
     - [8.1.4. Wijzigingen ten opzichte van de 2017 Scrum Gids](#814-wijzigingen-ten-opzichte-van-de-2017-scrum-gids)
+      - [Nog Minder Voorschrijvend](#nog-minder-voorschrijvend)
+      - [Eén Team, Gefocust op Eén Product](#eén-team-gefocust-op-eén-product)
+      - [Introductie van het Product Doel](#introductie-van-het-product-doel)
+      - [Een Thuis voor Sprint Doel, Definition of Done en Product Doel](#een-thuis-voor-sprint-doel-definition-of-done-en-product-doel)
+      - [Zelfsturend over Zelforganiserend](#zelfsturend-over-zelforganiserend)
+      - [Drie Sprint Planning Onderwerpen](#drie-sprint-planning-onderwerpen)
+      - [Algemene Vereenvoudiging van Taalgebruik voor een Breder Publiek](#algemene-vereenvoudiging-van-taalgebruik-voor-een-breder-publiek)
+- [References](#references)
 
 # 1. Doel van de Scrum Gids
 
@@ -215,17 +225,17 @@ De Product Owner verzekert zich ervan dat de aanwezigen voorbereid zijn om de me
 
 Sprint Planning behandelt de volgende onderwerpen:
 
-Onderwerp Een: Waarom is deze Sprint waardevol?
+### Onderwerp Een: Waarom is deze Sprint waardevol?
 
 De Product Owner doet een voorstel hoe het product in waarde en bruikbaarheid zou kunnen toenemen deze Sprint. Het hele Scrum Team werkt vervolgens samen om een Sprint Doel te definiëren dat aangeeft waarom deze Sprint waardevol is voor de belanghebbenden. Het Sprint Doel moet vastgelegd zijn voor het einde van de Sprint Planning.
 
-Onderwerp Twee: Wat kan deze Sprint worden afgerond?
+### Onderwerp Twee: Wat kan deze Sprint worden afgerond?
 
 In overleg met de Product Owner selecteren de Developers items van de Product Backlog om op te nemen in de huidige sprint. Het Scrum Team kan deze items tijdens dit proces verder uitwerken, zodat begrip en vertrouwen toenemen.
 
 Het kan uitdagend zijn om te selecteren hoeveel werk gedaan kan worden binnen een Sprint. Echter, hoe meer de Developers weten over hun vorige prestaties, hun aankomende capaciteit en hun Definition of Done, hoe meer vertrouwen zij zullen hebben in hun Sprint prognoses.
 
-Onderwerp Drie: Hoe zal het gekozen werk gedaan worden?
+### Onderwerp Drie: Hoe zal het gekozen werk gedaan worden?
 
 Voor elk geselecteerd Product Backlog item plannen de Developers het werk dat nodig is om een Increment te maken dat aan de Definition of Done voldoet. Dit gebeurt vaak door Product Backlog items op te breken in kleinere werk items die gedaan kunnen worden binnen een dag of minder. Hoe dit gebeurt, is volledig aan de Developers. Niemand anders mag ze vertellen hoe ze de Product Backlog items moeten omzetten in waardevolle Increments.
 
@@ -348,30 +358,36 @@ Deze Gids is vertaald vanuit de originele Engelse versie, beschikbaar gesteld do
 
 ### 8.1.4. Wijzigingen ten opzichte van de 2017 Scrum Gids
 
-Nog Minder Voorschrijvend
+#### Nog Minder Voorschrijvend
 
 Over de jaren heen begon de Scrumgids iets meer voorschrijvend te worden. De 2020 versie is bedoeld om Scrum terug te brengen naar een minimaal voldoende raamwerk door het verwijderen of afzwakken van voorschrijvende taal. Voorbeelden zijn: het verwijderen van de Daily Scrum vragen, het afzwakken van taal rondom Product Backlog Item attributen, het afzwakken van taal rondom Retrospective items op de Sprint Backlog, het verkorten van de tekst over het afbreken van de Sprint en meer.
 
-Eén Team, Gefocust op Eén Product
+#### Eén Team, Gefocust op Eén Product
 
 Het doel was om het concept van een apart team binnen een team te elimineren. Dat concept heeft geleid tot “proxy” of “wij” en “zij” gedrag tussen Product Owner en het Development Team. Er is nu alleen één Scrum Team, gefocust op hetzelfde doel, met drie verschillende sets aan verantwoordelijkheden: Product Owner, Scrum Master en Developers.
 
-Introductie van het Product Doel
+#### Introductie van het Product Doel
 
 De 2020 versie van de Scrum Gids introduceert het concept van een Product Doel om focus te geven voor het Scrum Team richting een grotere, waardevolle doelstelling. Elke Sprint moet het product dichter bij het Product Doel brengen.
 
-Een Thuis voor Sprint Doel, Definition of Done en Product Doel
+#### Een Thuis voor Sprint Doel, Definition of Done en Product Doel
 
 Vorige Scrum Gidsen hebben het Sprint Doel en de Definition of Done beschreven zonder ze een identiteit te geven. Ze waren geen artefacten maar waren enigszins gekoppeld aan artefacten. Met de toevoeging van het Product Doel geeft de 2020 versie hier meer duidelijkheid over. Elk van de drie artefacten heeft nu ‘commitments’ in zich. Voor de Product Backlog is dit het Product Doel, voor de Sprint Backlog is dit het Sprint Doel en het Increment heeft de Definition of Done (nu zonder aanhalingstekens). Ze bestaan om transparantie en focus te brengen richting de voortgang van elk artefact.
 
-Zelfsturend over Zelforganiserend
+#### Zelfsturend over Zelforganiserend
 
 Vorige Scrum Gidsen hebben Development Teams zelforganiserend genoemd: zelf kiezen wie het werk doen en hoe. Met een grotere focus op het Scrum Team benadrukt de 2020 versie een zelfsturend Scrum Team: zelf kiezen waaraan te werken, wie het werk doet en hoe.
 
-Drie Sprint Planning Onderwerpen
+#### Drie Sprint Planning Onderwerpen
 
 Als toevoeging op de Sprint Planning onderwerpen “Wat” en “Hoe” benadrukt de 2020 versie van de Scrum Gids een derde onderwerp: “Waarom”, verwijzend naar het Sprint Doel.
 
-Algemene Vereenvoudiging van Taalgebruik voor een Breder Publiek
+#### Algemene Vereenvoudiging van Taalgebruik voor een Breder Publiek
 
 De 2020 versie van de Scrum Gids heeft de nadruk gelegd op het verwijderen van overtollige en complexe uitspraken en het verwijderen van elke resterende verwijzing aan IT werk (zoals testen, systeem, ontwerp, requirement et cetera). De Scrum Gids is nu minder dan 14 pagina’s.
+
+Here is a simple footnote[^1]. With some additional text after it.
+
+# References
+
+[^1]: My reference.
