@@ -28,6 +28,13 @@ Het begrip staat bovenaan uitgelegd.
 
 # A
 
+## Acceptatiecriteria
+
+* 📃 Met acceptatiecriteria geef je detail aan een User Story zodat je weet wanneer een User Story klaar is.
+* 👩‍🏫 [INNO - Team-4 - Spidr.pdf](https://canvas.hu.nl/files/4373143/download?download_frd=1)
+* 🎯 https://agilescrumgroup.nl/acceptatiecriteria/
+* 🏆
+
 ## Afstudeerrichting
 
 * 📃 Afstudeerrichtingen:
@@ -474,6 +481,18 @@ Het begrip staat bovenaan uitgelegd.
 * 🎯 [INNO - Team-1 - Kick-off - deel 1.pdf, Pagina 2](https://canvas.hu.nl/courses/39869/files/4357531?wrap=1)
 * 🏆 
 
+## SPIDR-methode
+
+* 📃 (Non scrum) Een methode om grote Stories te splitsen, als die langer dan een sprint duren. Dit kan op de volgende 5 manieren:
+  * Spike: Splitsen als user story niet duidelijk of te complex is en er is meer informatie nodig om deze zinvol te splitsen.
+  * Path: Splitsen als user story uit meerdere paden of scenario’s bestaat
+  * Interface: Splitsen als de functionaliteit via verschillende interfaces aangeboden moet worden.
+  * Data: Splitsen op basis van de gewenste of benodigde gegevens
+  * Rules: Splitsen als een bepaalde bedrijfsregel, standaard of wet nageleefd moet worden.
+* 👩‍🏫 [INNO - Team-4 - Spidr.pdf, ](https://canvas.hu.nl/files/4373143/download?download_frd=1)
+* 🎯 https://www.mountaingoatsoftware.com/exclusive/spidr-poster-download 
+* 🏆
+
 ## Sprintverslag
 
 * 📃 Een document dat binnen INNO gebruikt wordt om een verslag te doen van de Scrum Ceremonies die plaats hebben gevonden binnen het project.
@@ -556,13 +575,6 @@ jaar en op alle niveaus.
 * 🏆 https://scrumatschool.nl
 * 🏆 https://mijn.marne.nl/Scrumshop/pages/index.shtm
 * 🏆 https://scrumatschool.nl/wp-content/uploads/2019/03/Scrumatschool-Guide-2019-def.pdf
-
-## Waterval
-
-* 📃 Waterval als tegenhanger voor Agile. Waterval is Plan Based.
-* 👩‍🏫 [INNO - Team-2 - Scrum.pdf, Pagina 5](https://canvas.hu.nl/courses/39869/files/4357533?wrap=1)
-* 🎯 
-* 🏆 
 
 ## Scrum Team
 
@@ -678,6 +690,13 @@ jaar en op alle niveaus.
 * 🎯 [INNO - Team-1 - Kick-off - deel 2.pdf, Pagina 4](https://canvas.hu.nl/courses/39869/files/4357532?wrap=1)
 * 🏆
 
+## Timeboxing
+
+* 📃 Timeboxing is het vooraf beperken van de hoeveelheid tijd die men aan een bepaalde activiteit wil en mag besteden. Dit om te voorkomen dat iets uitloopt. 
+* 👩‍🏫 [INNO - Team-4 - Spidr.pdf, Pagina 15](https://canvas.hu.nl/files/4373143/download?download_frd=1)
+* 🎯 https://nl.wikipedia.org/wiki/Timeboxing
+* 🏆
+
 ## Toelastingseisen
 
 * 📃 
@@ -698,6 +717,17 @@ jaar en op alle niveaus.
 
 
 # V
+
+## Value Statement
+
+* 📃 De manier waarop een Story beschreven wordt, op de:
+  *  Wie, 
+  *  Wat, 
+  *  Waarom-manier. 
+     * Bijvoorbeeld: Als `klant` wil ik `het afleveradres wijzigen` zodat `ik mijn bestelling als cadeau kan versturen`.
+* 👩‍🏫 [INNO - Team-4 - Spidr.pdf, Pagina 8](https://canvas.hu.nl/files/4373143/download?download_frd=1)
+* 🎯 
+* 🏆
 
 ## Verklaring Omtrent het Gedrag (VOG)
 
