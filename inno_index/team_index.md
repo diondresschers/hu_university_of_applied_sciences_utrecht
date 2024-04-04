@@ -128,6 +128,15 @@ Het begrip staat bovenaan uitgelegd.
 * 🎯 [INNO - Team-2 - Scrum.pdf, Pagina 23](https://canvas.hu.nl/courses/39869/files/4357533?wrap=1)
 * 🏆 https://scrumatschool.nl/wp-content/uploads/2019/03/Scrumatschool-Guide-2019-def.pdf
 
+## Continious Improvement
+
+https://www.atlassian.com/agile/project-management/continuous-improvement#:~:text=Definition%20of%20continuous%20improvement,processes%2C%20products%2C%20and%20personnel.
+
+* 📃 Continious Improvement is het voortdurende proces van het analyseren van prestaties, het identificeren van kansen, en het maken van incrementele veranderingen aan processen, producten, en personeel. Door processen te analyseren en te verfijnen, kan het bedrijf tijd besparen en over het algemeen een beter product leveren.
+* 👩‍🏫 [INNO - Team-5 - Ontwikkel.pdf](https://canvas.hu.nl/files/4460200/download?download_frd=1)
+* 🎯 https://www.atlassian.com/agile/project-management/continuous-improvement#:~:text=Definition%20of%20continuous%20improvement,processes%2C%20products%2C%20and%20personnel.
+* 🏆
+
 ## CSC
 
 * 📃 Cyber Security & Cloud (Afstudeerrichting bij de HU HBO-ICT).
@@ -143,6 +152,14 @@ Het begrip staat bovenaan uitgelegd.
 * 🏆
 
 # D
+
+## Dashboard
+
+
+* 📃 Een visuele weergave op basis van het Team, het Gilde en de Kennisroute zodat in een ogenblik duidelijk is waar de student staat op basis van het Portfolio.
+* 👩‍🏫 [INNO - Team-5 - Ontwikkel.pdf](https://canvas.hu.nl/files/4460200/download?download_frd=1)
+* 🎯 
+* 🏆
 
 ## (Commitment:) Definition of Done (DoD)
 
@@ -202,6 +219,16 @@ Het begrip staat bovenaan uitgelegd.
 * 🎯 [INNO - Team-1 - Kick-off - deel 1.pdf, Pagina 4](https://canvas.hu.nl/courses/39869/files/4357531?wrap=1)
 * 🏆 
 
+## Eindbeslissing
+
+* 📃 Gedurende het semester wordt via het Portfolio informatie over de voortgang bijgehouden, zodat aan het semestereinde het docententeam een beslissing kan nemen op basis van deze informatie. Dit is een beslissing met de Teambegleider, Gilde-meester, en Kennisdocent zonder student. De beslissing kan zijn:
+  * Onder Niveau (student krijgt de mogelijkhheid om te repareren)
+  * Op niveau
+  * Boven niveau
+* 👩‍🏫 [INNO - Team-5 - Ontwikkel.pdf, Pagina 17](https://canvas.hu.nl/files/4460200/download?download_frd=1)
+* 🎯 
+* 🏆
+
 ## Eindbeoordeling
 
 * 📃 Eindbeoordeling:
@@ -245,6 +272,13 @@ Het begrip staat bovenaan uitgelegd.
 * 🏆
 
 # H
+
+## Halfweg-gesprek
+
+* 📃 Naast Ontwikkelgesprekken is er ook één Halfweg-gesprek, waarin de voortang ten opzicht van het einddoel zichtbaar worden gemaakt. Hierbij wordt de directe feedback van de Gildemeester en Kennisdocent meegenomen.
+* 👩‍🏫 [INNO - Team-5 - Ontwikkel.pdf, Pagina 16](https://canvas.hu.nl/files/4460200/download?download_frd=1)
+* 🎯 
+* 🏆
 
 # I
 
@@ -351,6 +385,23 @@ Het begrip staat bovenaan uitgelegd.
 * 🎯 [INNO - Team-2 - Scrum.pdf, Pagina ](https://canvas.hu.nl/courses/39869/files/4357533?wrap=1)
 * 🏆 
 
+## Ontwikkelgericht toetsen
+
+* 📃 Manier waarop bij INNO getoetst wordt. Gedurende het semester verzamel je continue informatie over je voortgang, zodat aan het semestereinde het docententeam een beslissing kan nemen op basis van deze informatie. De verzamelde informatie in Canvas noemen we het portfolio.
+* 👩‍🏫 [INNO - Team-5 - Ontwikkel.pdf](https://canvas.hu.nl/files/4460200/download?download_frd=1)
+* 🎯 
+* 🏆
+
+## Ontwikkelgesprek
+
+* 📃 De voortgang van de student via Ontwikkelgericht toetsen wordt bij INNO door de Teambegeleider individueel met de student besproken. Dit duurt ongeveer 15 minuten. Het Portfolio is hierbij leidend. Hierbij komen alle perspectieven aan bod:
+  * Team
+  * Gilde
+  * Kennisroute 
+* 👩‍🏫 [INNO - Team-5 - Ontwikkel.pdf, Pagina 14](https://canvas.hu.nl/files/4460200/download?download_frd=1)
+* 🎯 
+* 🏆
+
 ## Opdrachtgever
 
 * 📃
@@ -377,6 +428,13 @@ Het begrip staat bovenaan uitgelegd.
 * 🎯 
 * 🏆 
 
+## Portfolio
+
+* 📃 Het Portfolio is de verzamelde informatie van een student in Canvas. Ontwikkelgericht toetsen is de manier waarop bij INNO getoetst wordt. Gedurende het semester verzamel je continue informatie over je voortgang, zodat aan het semestereinde het docententeam een beslissing kan nemen op basis van deze informatie.
+* 👩‍🏫 [INNO - Team-5 - Ontwikkel.pdf](https://canvas.hu.nl/files/4460200/download?download_frd=1)
+* 🎯 
+* 🏆
+
 ## Product Backlog
 
 * 📃 (Scrum) De Product Backlog is een levende, geordende lijst van wat nodig is om het product te verbeteren. Het is de enige bron van het werk dat door het Scrum Team gedaan wordt. Product Backlog items die binnen een Sprint ‘Done’ gemaakt kunnen worden door het Scrum Team, worden beschouwd als klaar voor selectie in een Sprint Planning. De items halen dit niveau van transparantie gebruikelijk na verder uitgewerkt te zijn. Het uitwerken van de Product Backlog(‘refinement’) is het verkleinen en verder definiëren van Product Backlog items in kleinere, meer nauwkeurige items. Commitment: Product Doel.
@@ -401,6 +459,13 @@ Het begrip staat bovenaan uitgelegd.
 # Q
 
 # R
+
+## Repareren
+
+* 📃 In de laatste 2 weken van INNO, kan een student Repareren om tot een betere Eindbeoordeling te komen.
+* 👩‍🏫 [INNO - Team-5 - Ontwikkel.pdf](https://canvas.hu.nl/files/4460200/download?download_frd=1)
+* 🎯 
+* 🏆
 
 ## Rubric
 
@@ -437,7 +502,7 @@ Het begrip staat bovenaan uitgelegd.
 
 ## Scrum Checklist
 
-* 📃 (non-Scrum). Binnen inno wordt gebruik gemaakt van een zogenaamde Scrum Checklist die als basis dient waarop een Scrum Team de Scrum Gebeurtenissen kan orginiseren en kan dienen voor de Teambegeleider om het Scrum Team te beoordelen.
+* 📃 (non-Scrum). Binnen INNO wordt gebruik gemaakt van een zogenaamde Scrum Checklist die als basis dient waarop een Scrum Team de Scrum Gebeurtenissen kan orginiseren en kan dienen voor de Teambegeleider om het Scrum Team te beoordelen.
 * 👩‍🏫 
 * 🎯 [INNO - Team-2 - Scrum.pdf, Pagina 28](https://canvas.hu.nl/courses/39869/files/4357533?wrap=1)
 * 🏆 
@@ -773,9 +838,3 @@ jaar en op alle niveaus.
 * 🏆 
 
 ---
-
-# Slides
-
-* [INNO - Team-1 - Kick-off - deel 1.pdf](https://canvas.hu.nl/courses/39869/files/4357531?wrap=1)
-* [INNO - Team-1 - Kick-off - deel 2.pdf](https://canvas.hu.nl/courses/39869/files/4357532?wrap=1)
-* [INNO - Team-2 - Scrum.pdf](https://canvas.hu.nl/courses/39869/files/4357533?wrap=1)
