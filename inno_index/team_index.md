@@ -8,7 +8,7 @@
 * Writers: Dion Dresschers
 * Download: [https://edu.nl/vvdbc](https://edu.nl/vvdbc)
 * Status: Concept
-* Versie: 2024-03-08 12:50:43
+* Versie: 2024-04-04 10:38 (Bijgewerkt tot PDF van `INNO - Team 3`)
 
 ## Legenda
 
@@ -98,6 +98,13 @@ Het begrip staat bovenaan uitgelegd.
 * 🎯 [INNO - Team-1 - Kick-off - deel 1.pdf, Pagina 16](https://canvas.hu.nl/courses/39869/files/4357531?wrap=1)
 * 🏆
 
+## Brown Field
+
+* 📃 Brownfield-ontwikkeling is een term die vaak wordt gebruikt in de informatietechnologie-industrie om probleemgebieden te beschrijven die de ontwikkeling en implementatie van nieuwe softwaresystemen vereisen in de directe aanwezigheid van bestaande (legacy) softwaretoepassingen/systemen.
+* 👩‍🏫 [INNO - Team-3 - Design Sprint.pdf, Pagina 10](https://canvas.hu.nl/files/4373142/download?download_frd=1)
+* 🎯 https://en.wikipedia.org/wiki/Brownfield_(software_development)
+* 🏆
+
 # C
 
 ## Canvas
@@ -116,7 +123,7 @@ Het begrip staat bovenaan uitgelegd.
 
 ## CSC
 
-* 📃 
+* 📃 Cyber Security & Cloud (Afstudeerrichting bij de HU HBO-ICT).
 * 👩‍🏫 
 * 🎯 [INNO - Team-1 - Kick-off - deel 1.pdf, Pagina 2](https://canvas.hu.nl/courses/39869/files/4357531?wrap=1)
 * 🏆 
@@ -130,7 +137,7 @@ Het begrip staat bovenaan uitgelegd.
 
 # D
 
-## (Commitment:) Definition of Done
+## (Commitment:) Definition of Done (DoD)
 
 * 📃 (Scrum) De Definition of Done is een formele beschrijving van de staat van het Increment wanneer deze voldoet aan de kwaliteitseisen die voor het product benodigd zijn. Op het moment dat een Product Backlog item voldoet aan de Definition of Done, ontstaat een Increment. De Definition of Done zorgt voor transparantie, doordat iedereen een gedeeld begrip heeft van wat voor werk is afgerond als onderdeel van het Increment. 
 * 👩‍🏫 
@@ -223,6 +230,12 @@ Het begrip staat bovenaan uitgelegd.
 * 🎯 [INNO - Team-1 - Kick-off - deel 1.pdf, Pagina 10](https://canvas.hu.nl/courses/39869/files/4357531?wrap=1)
 * 🏆 
 
+## Green Field
+
+* 📃 Greenfield is een bedrijfskundige vakterm voor het vanaf de grond starten of opbouwen (vanuit het niets) van een bedrijf, vereniging, (computer)programma of nieuw huis.
+* 👩‍🏫 [INNO - Team-3 - Design Sprint.pdf, Pagina 10](https://canvas.hu.nl/files/4373142/download?download_frd=1)
+* 🎯 https://nl.wikipedia.org/wiki/Greenfield_(bedrijfskunde)
+* 🏆
 
 # H
 
@@ -461,6 +474,13 @@ Het begrip staat bovenaan uitgelegd.
 * 🎯 [INNO - Team-1 - Kick-off - deel 1.pdf, Pagina 2](https://canvas.hu.nl/courses/39869/files/4357531?wrap=1)
 * 🏆 
 
+## Sprintverslag
+
+* 📃 Een document dat binnen INNO gebruikt wordt om een verslag te doen van de Scrum Ceremonies die plaats hebben gevonden binnen het project.
+* 👩‍🏫 [INNO - Team-3 - Design Sprint.pdf, Pagina 18](https://canvas.hu.nl/files/4373142/download?download_frd=1)
+* 🎯 
+* 🏆
+
 ## (CSC) Security
 
 * 📃 
@@ -584,12 +604,38 @@ jaar en op alle niveaus.
 * 🎯 https://canvas.hu.nl/courses/39869/pages/scrum-de-sprint
 * 🏆 
 
+## Stakeholder
+
+* 📃 Personen die belang hebben bij je project bij INNO.
+* 👩‍🏫 [INNO - Team-3 - Design Sprint.pdf, Pagina 4](https://canvas.hu.nl/files/4373142/download?download_frd=1)
+* 🎯
+* 🏆 
+* 
+
+## Stakeholdercirkel
+
+* 📃 Oefening bij INNO om de belanghebbende (stakeholders), systematisch in kaart te brengen.
+* 👩‍🏫  [INNO - Team-3 - Design Sprint.pdf, Pagina 11](https://canvas.hu.nl/files/4373142/download?download_frd=1)
+* 🎯
+* 🏆 
+
 ## Startdocument 
 
 * 📃
 * 👩‍🏫 
 * 🎯 [INNO - Team-1 - Kick-off - deel 1.pdf, Pagina 15](https://canvas.hu.nl/courses/39869/files/4357531?wrap=1)
 * 🏆 
+
+## (User) Story
+
+* 📃 (Non Scrum) Een User Story is een korte, eenvoudige beschrijving van een behoefte van de eindgebruiker. Een kort verhaaltje, geschreven vanuit het oogpunt van die eindgebruiker.  Een User Story is geen functionele beschrijving, maar maakt duidelijk wat een eindgebruiker wil, of nodig heeft en ook waarom dat nodig is. Naast User Stories zijn ook andere stories. Stories zijn in het formaat van een Value Statement. Hier staan alle stories op een rijtje:
+  * User Stories, leveren de praktijkvraag: welke gebruikers willen wat en waarom.
+  * Learning Stories, overbruggen gaten in kennis en vaardigheden van studenten zodat ze user story's kunnen realiseren.
+  * Enabler Stories, maken het mogelijk dat het team goed kan samenwerken en de oplossing snel en effectief doorgevoerd kan worden.
+  * Research Stories, overbruggen kennisgaten voor een opdrachtgever zodat de oplossingsruimte in beeld komt en een oplossingsrichting gekozen kan worden.
+* 👩‍🏫 [INNO - Team-3 - Design Sprint.pdf, Pagina 6](https://canvas.hu.nl/files/4373142/download?download_frd=1)
+* 🎯 https://agilescrumgroup.nl/wat-is-een-user-story/
+* 🏆
 
 ## Studiepunt
 
@@ -641,7 +687,24 @@ jaar en op alle niveaus.
 
 # U
 
+## Users
+
+* 📃 De mensen of groepen die zullen gaan werken met de uitkomsnten van het project.
+* 👩‍🏫 [INNO - Team-3 - Design Sprint.pdf, Pagina 12](https://canvas.hu.nl/files/4373142/download?download_frd=1)
+* 🎯 
+* 🏆
+
+## Users
+
+
 # V
+
+## Verklaring Omtrent het Gedrag (VOG)
+
+* 📃 Voor veel banen heeft u een Verklaring Omtrent het Gedrag (VOG) nodig. Bijvoorbeeld als u gaat werken met vertrouwelijke gegevens of met kinderen. Een VOG is een verklaring waaruit blijkt dat uw gedrag geen bezwaar is voor een nieuwe baan, visum, emigratie of werkvergunning.  
+* 👩‍🏫 [INNO - Team-3 - Design Sprint.pdf, Pagina 7](https://canvas.hu.nl/files/4373142/download?download_frd=1)
+* 🎯 https://www.rijksoverheid.nl/wetten-en-regelingen/productbeschrijvingen/aanvragen-verklaring-omtrent-het-gedrag-vog-bij-justis
+* 🏆
 
 # W
 
@@ -656,6 +719,13 @@ jaar en op alle niveaus.
 
 * 📃 Agile is waarde gedreven.
 * 👩‍🏫 [INNO - Team-2 - Scrum.pdf, Pagina 6](https://canvas.hu.nl/courses/39869/files/4357533?wrap=1)
+* 🎯 
+* 🏆 
+
+## Wooclap
+
+* 📃 Wooclap is een votingtool waarmee je eenvoudig interactie met studenten kunt stimuleren. De HU heeft hier een licentie van.
+* 👩‍🏫 [INNO - Team-3 - Design Sprint.pdf, Pagina 3](https://canvas.hu.nl/files/4373142/download?download_frd=1)
 * 🎯 
 * 🏆 
 
