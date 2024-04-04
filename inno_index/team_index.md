@@ -112,6 +112,13 @@ Het begrip staat bovenaan uitgelegd.
 * 🎯 https://en.wikipedia.org/wiki/Brownfield_(software_development)
 * 🏆
 
+## Burndown Chart
+
+* 📃 (Non scrum): De burndown chart, biedt visuele informatie waarbij het de resterende hoeveelheid werk weergeeft ten op zichte van het aantal dagen in de Sprint.
+* 👩‍🏫 [INNO - Team-6.pdf, Pagina 14](https://canvas.hu.nl/files/4460201/download?download_frd=1)
+* 🎯 https://agilescrumgroup.nl/burndown-chart/
+* 🏆
+
 # C
 
 ## Canvas
@@ -119,6 +126,13 @@ Het begrip staat bovenaan uitgelegd.
 * 📃 De Software die gebruikt wordt als Digitale LeerOmgeving (Acronym: DLO) binnen INNO.
 * 👩‍🏫 
 * 🎯 [INNO - Team-1 - Kick-off - deel 1.pdf, Pagina 16](https://canvas.hu.nl/courses/39869/files/4357531?wrap=1)
+* 🏆
+
+## Capaciteit
+
+* 📃 De tijd die de Developers hebben tijdens een Sprint.
+* 👩‍🏫 [INNO - Team-6.pdf](https://canvas.hu.nl/files/4460201/download?download_frd=1)
+* 🎯 
 * 🏆
 
 ## Ceremonies
@@ -154,7 +168,6 @@ https://www.atlassian.com/agile/project-management/continuous-improvement#:~:tex
 # D
 
 ## Dashboard
-
 
 * 📃 Een visuele weergave op basis van het Team, het Gilde en de Kennisroute zodat in een ogenblik duidelijk is waar de student staat op basis van het Portfolio.
 * 👩‍🏫 [INNO - Team-5 - Ontwikkel.pdf](https://canvas.hu.nl/files/4460200/download?download_frd=1)
@@ -198,7 +211,7 @@ https://www.atlassian.com/agile/project-management/continuous-improvement#:~:tex
 
 ## Daily Standup
 
-* 📃 (non-Scrum) In een non-Scrum benaming voor de Scrum Gebeurtenis: Daily Scrum.
+* 📃 (non-Scrum) In een non-Scrum benaming voor de Scrum Gebeurtenis: Daily Scrum. Hierin wordt benoemd:
 * 👩‍🏫 
 * 🎯 [INNO - Team-2 - Scrum.pdf, Pagina 23](https://canvas.hu.nl/courses/39869/files/4357533?wrap=1)
 * 🏆 https://scrumatschool.nl/wp-content/uploads/2019/03/Scrumatschool-Guide-2019-def.pdf
@@ -428,6 +441,13 @@ https://www.atlassian.com/agile/project-management/continuous-improvement#:~:tex
 * 🎯 
 * 🏆 
 
+## Planning Poker
+
+* 📃 Bij Planning Poker krijgt elke Developer een set kaarten met de verschillende waarden en wordt per Story kaarten neergelegd met een inschatting hoe groot of complex een activiteit volgens hem of haar is ten opzichte van voorgaande items. Bij grote verschillen bij inschatting wordt de discussie aangegaan wat betreft die verschillen en dan al dan niet opnieuw geporkerd met dezelfde Story.
+* 👩‍🏫 [INNO - Team-6.pdf](https://canvas.hu.nl/files/4460201/download?download_frd=1)
+* 🎯 https://agilescrumgroup.nl/scrum-planning-poker-swimlane-sizing/
+* 🏆
+
 ## Portfolio
 
 * 📃 Het Portfolio is de verzamelde informatie van een student in Canvas. Ontwikkelgericht toetsen is de manier waarop bij INNO getoetst wordt. Gedurende het semester verzamel je continue informatie over je voortgang, zodat aan het semestereinde het docententeam een beslissing kan nemen op basis van deze informatie.
@@ -441,6 +461,16 @@ https://www.atlassian.com/agile/project-management/continuous-improvement#:~:tex
 * 👩‍🏫 [INNO - Team-1 - Kick-off - deel 1.pdf, Pagina 14](https://canvas.hu.nl/courses/39869/files/4357531?wrap=1)
 * 🎯 https://canvas.hu.nl/courses/39869/pages/scrum-product-backlog
 * 🏆 
+
+## Projectdag
+
+* 📃 Elke formele dag waarin de Developers bij elkaar komen om voor het Project te werken. Deze dagen zijn:
+  * Maandag
+  * Woensdag (bij de opdrachtgever)
+  * Vrijdag
+* 👩‍🏫 [INNO - Team-6.pdf, Pagina 14](https://canvas.hu.nl/files/4460201/download?download_frd=1)
+* 🎯 
+* 🏆
 
 ## (Commitment:) Product Doel
 
