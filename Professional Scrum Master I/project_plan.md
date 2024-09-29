@@ -1,4 +1,4 @@
-<h1>Project Plan: Professional Scrum Master I
+<h1>Project Plan: Professional Scrum Master I</h1>
 
 <img src="assets/svg/make-a-picture-of-an-it-professional-that-is-standing-in-front-o.svg" alt="drawing" width="20%"/>
 
@@ -9,7 +9,7 @@
 * Copyright: CC BY-SA 4.0
 * Version: 2024-09-29 11:19:37
 
-<img src="assets/svg/by-sa.svg" alt="drawing" width="20%">
+<img src="assets/svg/by-sa.svg" alt="drawing" width="10%">
 <h1>Inhoudsopgave</h1>
 
 - [1. Versiebeheer](#1-versiebeheer)
