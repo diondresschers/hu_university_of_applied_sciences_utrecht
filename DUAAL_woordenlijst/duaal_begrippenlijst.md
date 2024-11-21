@@ -5,8 +5,8 @@
 * Inspiratie: Internet en eigen inbreng 
 * Auteur: HU University of Applied Sciences Utrecht
 * Copyright: [Creative Commons — Naamsvermelding-GelijkDelen 4.0 Internationaal — CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/deed.nl)
-* Writers: Dion Dresschers
-* Download: [https://edu.nl/877kw](https://edu.nl/877kw)
+* Writer(s): Dion Dresschers
+* Download: [https://edu.nl/qbfq4](https://edu.nl/qbfq4)
 * Status: Concept
 * Versie: 2024-11-21 12:31:18
 
